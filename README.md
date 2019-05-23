@@ -1,3 +1,3 @@
 # pokedex-project2
 
-Pokedex project at the bootcamp.
+Pokedex project at the bootcamp. Group project
